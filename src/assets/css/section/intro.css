@@ -74,6 +74,7 @@
 .intro__lines.bottom .line {
     margin-top: 0.5vw;
     margin-bottom: 0;
+    display: none;
 }
 .intro__lines .line:nth-child(1){
     height: 1px;
